@@ -1,13 +1,13 @@
 
 # MALMO
 
-Multivariate Adaptive Linear Model with Missing Outcomes
+Microbial Association with Left censored/Missing Metabolic Outputs
 
 **Author**: Kai Jiang, Christine B. Peterson
 
 ## Overview
 
-This repository provides the implementation of the **Multivariate Adaptive Linear Model with Missing Outcomes (MALMO)**.
+This repository provides the implementation of the **Microbial Association with Left censored/Missing Metabolic Outputs (MALMO)**.
 
 The proposed framework enables:
 
